@@ -31,7 +31,7 @@ CivicQuest transforms traditional civic education through gamified learning expe
 
 ## 📱 Demo
 
-🔗 **[Live Preview](https://your-demo-link.com)** *(Coming Soon)*
+🔗 **[Live Preview]((https://angiegichane.github.io/Civic-Quest/))**
 
 ## 🛠️ Installation
 
